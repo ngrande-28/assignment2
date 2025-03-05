@@ -19,26 +19,22 @@
         <a href="#gallery">Gallery</a>
         <a href="#footer">About the Author</a>
     </nav>
-
     <!-- Main header with the page title -->
     <header>
         <h1>The Great Life of Jimi Hendrix</h1>
         <p>Often referred to as the greatest guitarist of all time, Jimi Hendrix was born in Seattle, Washington. Hendrix's ability to manipulate the guitar to create sounds that no one had ever heard before earns him the credibility that he has today.</p>
     </header>
-
     <main>
         <!-- Early life section -->
         <section id="early-life">
             <h2>Early Life</h2>
             <p>From a young age, Jimi Hendrix grew a love for the guitar. During his early career, he would find himself backing many different artists, most notably the <em>Isley Brothers</em>. He eventually took his talents to London, England, where he met future bandmates <b>Noel Redding and Mitch Mitchell</b>. When all the buzz about this kid tearing it up in small clubs in London started, Hendrix would soon see himself on the climb.</p>
         </section>
-
         <!-- How Hendrix became famous -->
         <section id="spotlight">
             <h2>Coming into the Spotlight</h2>
             <p>Hendrix released his first album <a href="https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"><i>Are You Experienced</i></a> with his band “The Jimi Hendrix Experience.” The real success came from his mind-blowing live performances. He played many notable performances in some of the biggest venues in the world, but one of his most iconic is his performance at <a href="https://www.youtube.com/watch?v=liG349SoF_U"><strong>the Woodstock Arts & Music Festival</strong></a> in 1969.</p>
         </section>
-
         <!-- List of albums -->
         <section id="discography">
             <h3>Discography</h3>
@@ -48,7 +44,6 @@
                 <li>Electric Ladyland (1968)</li>
             </ol>
         </section>
-
         <!-- Some of his best live performances -->
         <section id="live-performances">
             <h3>Notable Live Performances</h3>
@@ -59,7 +54,6 @@
                 <li>Live at Maui</li>
             </ul>
         </section>
-
         <!-- Photo gallery of Hendrix -->
         <section id="gallery" class="gallery">
             <h3>Gallery</h3>
@@ -77,7 +71,6 @@
             </figure>
         </section>
     </main>
-
     <!-- Footer with author info -->
     <footer id="footer">
         <p>Author Info: Nicholas Grande is a Sophomore Music Industry Major at the Frost School of Music. He is from Staten Island, NY, and currently resides in Miami, Florida. He is a Jimi Hendrix enthusiast and currently a student in the University's Web Lab class.</p>
