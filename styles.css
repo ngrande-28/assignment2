@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', Arial, sans-serif;
     background-color: lightgray;
 }
 
@@ -61,4 +63,3 @@ footer {
     padding: 20px;
     border: 1px solid black;
 }
-
